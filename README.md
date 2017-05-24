@@ -35,3 +35,6 @@ Got questions?  Hit me up!  I'm r@rdegges.com.
 
 
   [SpeakerDeck]: https://speakerdeck.com/rdegges/everything-you-ever-wanted-to-know-about-authentication-in-node-dot-js "Everything You Ever Wanted to Know About Authentication in Node.js"
+
+
+Now this Edti By Shiva
